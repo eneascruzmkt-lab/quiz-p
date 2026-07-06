@@ -1,0 +1,1022 @@
+[
+  {
+    "index": 0,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "Welcome to\n\nHolyRest\nContinue\n\nBy proceeding, you accept our Terms of Use and Privacy Policy.",
+        "classes": "jsx-4c0afebf78af6724 relative z-10 flex flex-col justify-between min-h-dvh"
+      },
+      {
+        "tag": "div",
+        "text": "Welcome to\n\nHolyRest",
+        "classes": "jsx-4c0afebf78af6724 pt-20 pb-8 px-6 text-center"
+      },
+      {
+        "tag": "p",
+        "text": "Welcome to",
+        "classes": "jsx-4c0afebf78af6724 text-sm mb-2"
+      },
+      {
+        "tag": "h1",
+        "text": "HolyRest",
+        "classes": "jsx-4c0afebf78af6724 text-3xl font-bold text-center mb-4"
+      },
+      {
+        "tag": "div",
+        "text": "Continue\n\nBy proceeding, you accept our Terms of Use and Privacy Policy.",
+        "classes": "jsx-4c0afebf78af6724 pb-6 px-6 space-y-8"
+      },
+      {
+        "tag": "a",
+        "text": "Continue",
+        "classes": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90 h-11 px-8 w-full font-semibold rounded-[40px]"
+      },
+      {
+        "tag": "div",
+        "text": "By proceeding, you accept our Terms of Use and Privacy Policy.",
+        "classes": "jsx-4c0afebf78af6724 text-center"
+      },
+      {
+        "tag": "a",
+        "text": "Terms of Use",
+        "classes": "jsx-4c0afebf78af6724 underline"
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "classes": "jsx-4c0afebf78af6724 underline"
+      },
+      {
+        "tag": "div",
+        "text": "We use cookies for your best online experience. See our Cookie Policy.\n\nOkay",
+        "classes": "jsx-4c0afebf78af6724 fixed bottom-0 left-0 right-0 p-4 z-20"
+      },
+      {
+        "tag": "div",
+        "text": "We use cookies for your best online experience. See our Cookie Policy.",
+        "classes": "jsx-4c0afebf78af6724 flex-1"
+      },
+      {
+        "tag": "a",
+        "text": "Cookie Policy",
+        "classes": "jsx-4c0afebf78af6724 font-bold"
+      },
+      {
+        "tag": "button",
+        "text": "Okay",
+        "classes": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90 h-9 px-3 rounded-[24px]"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/_next/image?url=%2Fproj_fe239df4b93b44d184bf065eb41e2c61%2Fflow_eb5e60c60451452fae077c90b41aec98%2F_next%2Fstatic%2Fmedia%2F1773402808985_1d5efc7d-7478-4a85-9426-068422be99a2.773a3eb5.png&w=640&q=75",
+        "alt": "HolyRest App Logo",
+        "localFile": "step0_img0.png"
+      },
+      {
+        "src": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/_next/image?url=%2Fproj_fe239df4b93b44d184bf065eb41e2c61%2Fflow_eb5e60c60451452fae077c90b41aec98%2F_next%2Fstatic%2Fmedia%2F1771839285999_712eb9c1-0c12-40b6-a179-4c877806f255.79a79746.png&w=1080&q=75",
+        "alt": "Trusted by Christians Worldwide",
+        "localFile": "step0_img1.png"
+      },
+      {
+        "src": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/_next/static/media/1771837447373_ddf03c88-27bf-463a-886d-6743b423d744.39ddfded.jpg",
+        "alt": "bg",
+        "localFile": "step0_img2.jpg"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_16a37472d9a04614a6a970562266037a",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "4 Million Hearts have chosen HolyRest\n2-min quiz to unlock Bible stories\nContinue",
+        "classes": "relative z-10 flex flex-col justify-between min-h-dvh"
+      },
+      {
+        "tag": "div",
+        "text": "4 Million Hearts have chosen HolyRest\n2-min quiz to unlock Bible stories",
+        "classes": "pt-16 pb-8 px-6 text-center"
+      },
+      {
+        "tag": "h1",
+        "text": "4 Million Hearts have chosen HolyRest",
+        "classes": "text-center mb-4"
+      },
+      {
+        "tag": "span",
+        "text": "4 Million Hearts",
+        "classes": ""
+      },
+      {
+        "tag": "span",
+        "text": "have chosen HolyRest",
+        "classes": ""
+      },
+      {
+        "tag": "div",
+        "text": "2-min quiz to unlock Bible stories",
+        "classes": "inline-flex items-center gap-2"
+      },
+      {
+        "tag": "div",
+        "text": "Continue",
+        "classes": "pb-6 px-6"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/_next/image?url=%2Fproj_fe239df4b93b44d184bf065eb41e2c61%2Fflow_eb5e60c60451452fae077c90b41aec98%2F_next%2Fstatic%2Fmedia%2F1771838155784_21a82fe0-18f2-477e-8b7a-aa0fd3e92ee9.71c5efe3.png&w=750&q=75",
+        "alt": "HolyRest App Logo",
+        "localFile": "step1_img0.png"
+      },
+      {
+        "src": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/_next/image?url=%2Fproj_fe239df4b93b44d184bf065eb41e2c61%2Fflow_eb5e60c60451452fae077c90b41aec98%2F_next%2Fstatic%2Fmedia%2F1771839009379_45858e6a-3d25-40d5-9a03-6cf75f57777a.5a437f9f.png&w=48&q=75",
+        "alt": "Quiz icon",
+        "localFile": "step1_img1.png"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_bbcc4e31b18c4e7087bb6a16ad6ae3e4",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How familiar are you with the Bible?\nBeginner\nKnow some parts\nKnow it well\nNot sure",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How familiar are you with the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Beginner\nKnow some parts\nKnow it well\nNot sure",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Beginner",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Know some parts",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Know it well",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Not sure",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 3,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7f7448f3d733405bb586c566230511a9",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you read or listen to the Bible?\nDaily\nSometimes\nRarely\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you read or listen to the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Daily\nSometimes\nRarely\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Daily",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Rarely",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 4,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7f7448f3d733405bb586c566230511a9",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you read or listen to the Bible?\nDaily\nSometimes\nRarely\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you read or listen to the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Daily\nSometimes\nRarely\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Daily",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Rarely",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 5,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7f7448f3d733405bb586c566230511a9",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you read or listen to the Bible?\nDaily\nSometimes\nRarely\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you read or listen to the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Daily\nSometimes\nRarely\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Daily",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Rarely",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 6,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7f7448f3d733405bb586c566230511a9",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you read or listen to the Bible?\nDaily\nSometimes\nRarely\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you read or listen to the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Daily\nSometimes\nRarely\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Daily",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Rarely",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 7,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7f7448f3d733405bb586c566230511a9",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you read or listen to the Bible?\nDaily\nSometimes\nRarely\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you read or listen to the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Daily\nSometimes\nRarely\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Daily",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Rarely",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 8,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7f7448f3d733405bb586c566230511a9",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you read or listen to the Bible?\nDaily\nSometimes\nRarely\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you read or listen to the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Daily\nSometimes\nRarely\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Daily",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Rarely",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 9,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7f7448f3d733405bb586c566230511a9",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you read or listen to the Bible?\nDaily\nSometimes\nRarely\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you read or listen to the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Daily\nSometimes\nRarely\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Daily",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Rarely",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 10,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7f7448f3d733405bb586c566230511a9",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you read or listen to the Bible?\nDaily\nSometimes\nRarely\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you read or listen to the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Daily\nSometimes\nRarely\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Daily",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Rarely",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 11,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7f7448f3d733405bb586c566230511a9",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you read or listen to the Bible?\nDaily\nSometimes\nRarely\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you read or listen to the Bible?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Daily\nSometimes\nRarely\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Daily",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Rarely",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 12,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_250630cc041b49d29a10728d8ff483bc",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How do you feel about your relationship with God?\nVery close\nGrowing\nSearching\nDistant\nNew to faith\nNot sure",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How do you feel about your relationship with God?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Very close\nGrowing\nSearching\nDistant\nNew to faith\nNot sure",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Very close",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Growing",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Searching",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Distant",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "New to faith",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Not sure",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 13,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_c46c161e947046efad169a92b93a7f6b",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "People who connect with God daily are 32% more likely to feel a deep sense of purpose and calm\n\nHarvard Medical School, 2022",
+        "classes": "flex-1 flex items-center justify-center px-6"
+      },
+      {
+        "tag": "h1",
+        "text": "People who connect with God daily are 32% more likely to feel a deep sense of purpose and calm",
+        "classes": "text-center mt-6"
+      },
+      {
+        "tag": "span",
+        "text": "32% more likely",
+        "classes": ""
+      },
+      {
+        "tag": "p",
+        "text": "Harvard Medical School, 2022",
+        "classes": "text-center mt-2"
+      },
+      {
+        "tag": "div",
+        "text": "Continue",
+        "classes": "p-6 space-y-5"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/_next/image?url=%2Fproj_fe239df4b93b44d184bf065eb41e2c61%2Fflow_eb5e60c60451452fae077c90b41aec98%2F_next%2Fstatic%2Fmedia%2F1771843331633_6d8fb949-a2d3-4bfb-a610-b4e094bfb65e.8cbf9fec.png&w=750&q=75",
+        "alt": "Purpose and connection illustration",
+        "localFile": "step13_img0.png"
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_18acb17f9a4c441aa3bef698fb0b7078",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "On average, how long do you sleep each night?\nLess than 6 hours\n6-7 hours\n7-8 hours\n8-9 hours\n9+ hours",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "On average, how long do you sleep each night?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Less than 6 hours\n6-7 hours\n7-8 hours\n8-9 hours\n9+ hours",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Less than 6 hours",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "6-7 hours",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "7-8 hours",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "8-9 hours",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "9+ hours",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 15,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_5e3811450e804eb3aeb62ada5c8506ce",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "How often do you have trouble sleeping?\nEvery night\nOften\nSometimes\nNever",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "How often do you have trouble sleeping?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Every night\nOften\nSometimes\nNever",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Every night",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Often",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Sometimes",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Never",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 16,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_5a4dd8883bca414c84ce25082a5d7839",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "Most evenings you feel:\nCalm\nAnxious\nTired\nGrateful\nUnsure",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "Most evenings you feel:",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Calm\nAnxious\nTired\nGrateful\nUnsure",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Calm",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Anxious",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Tired",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Grateful",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Unsure",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 17,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_7540087ec02a42f09ff2d12921f2299f",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "Which goal matter most for the next year?\nBetter sleep\nMore inner peace\nStronger mental health\nCloser walk with God\nAll of the above",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "h1",
+        "text": "Which goal matter most for the next year?",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Better sleep\nMore inner peace\nStronger mental health\nCloser walk with God\nAll of the above",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "button",
+        "text": "Better sleep",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "More inner peace",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Stronger mental health",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Closer walk with God",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "All of the above",
+        "classes": "w-full p-4 flex items-center rounded-xl border transition-all duration-500 bg-white bg-opacity-5 opacity-100 translate-y-0"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 18,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_047a8c440e3d4514bff616bc468ab4f6",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "Why are you interested in audio Bible stories?\n\nSelect all that apply\n\nReduce stress\nFeel spiritual peace\nEmotional comfort\nBetter sleep\nOther\nContinue",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "div",
+        "text": "Why are you interested in audio Bible stories?\n\nSelect all that apply\n\nReduce stress\nFeel spiritual peace\nEmotional comfort\nBetter sleep\nOther",
+        "classes": "flex-1"
+      },
+      {
+        "tag": "h1",
+        "text": "Why are you interested in audio Bible stories?",
+        "classes": "text-center mb-4"
+      },
+      {
+        "tag": "p",
+        "text": "Select all that apply",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Reduce stress\nFeel spiritual peace\nEmotional comfort\nBetter sleep\nOther",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "div",
+        "text": "Reduce stress",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Feel spiritual peace",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Emotional comfort",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Better sleep",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Other",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Continue",
+        "classes": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90 h-11 rounded-md px-8 w-full mt-8"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 19,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_047a8c440e3d4514bff616bc468ab4f6",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "Why are you interested in audio Bible stories?\n\nSelect all that apply\n\nReduce stress\nFeel spiritual peace\nEmotional comfort\nBetter sleep\nOther\nContinue",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "div",
+        "text": "Why are you interested in audio Bible stories?\n\nSelect all that apply\n\nReduce stress\nFeel spiritual peace\nEmotional comfort\nBetter sleep\nOther",
+        "classes": "flex-1"
+      },
+      {
+        "tag": "h1",
+        "text": "Why are you interested in audio Bible stories?",
+        "classes": "text-center mb-4"
+      },
+      {
+        "tag": "p",
+        "text": "Select all that apply",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Reduce stress\nFeel spiritual peace\nEmotional comfort\nBetter sleep\nOther",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "div",
+        "text": "Reduce stress",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Feel spiritual peace",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Emotional comfort",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Better sleep",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Other",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Continue",
+        "classes": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90 h-11 rounded-md px-8 w-full mt-8"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 20,
+    "url": "https://wf.holyrest.app/proj_fe239df4b93b44d184bf065eb41e2c61/flow_eb5e60c60451452fae077c90b41aec98/step_047a8c440e3d4514bff616bc468ab4f6",
+    "texts": [
+      {
+        "tag": "div",
+        "text": "Why are you interested in audio Bible stories?\n\nSelect all that apply\n\nReduce stress\nFeel spiritual peace\nEmotional comfort\nBetter sleep\nOther\nContinue",
+        "classes": "min-h-dvh"
+      },
+      {
+        "tag": "div",
+        "text": "Why are you interested in audio Bible stories?\n\nSelect all that apply\n\nReduce stress\nFeel spiritual peace\nEmotional comfort\nBetter sleep\nOther",
+        "classes": "flex-1"
+      },
+      {
+        "tag": "h1",
+        "text": "Why are you interested in audio Bible stories?",
+        "classes": "text-center mb-4"
+      },
+      {
+        "tag": "p",
+        "text": "Select all that apply",
+        "classes": "text-center mb-12"
+      },
+      {
+        "tag": "div",
+        "text": "Reduce stress\nFeel spiritual peace\nEmotional comfort\nBetter sleep\nOther",
+        "classes": "space-y-3"
+      },
+      {
+        "tag": "div",
+        "text": "Reduce stress",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Feel spiritual peace",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Emotional comfort",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Better sleep",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "div",
+        "text": "Other",
+        "classes": "w-full p-4 flex items-center justify-between rounded-xl border transition-all duration-500 cursor-pointer bg-white bg-opacity-5 opacity-100 translate-y-0"
+      },
+      {
+        "tag": "button",
+        "text": "Continue",
+        "classes": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90 h-11 rounded-md px-8 w-full mt-8"
+      }
+    ],
+    "images": []
+  }
+]

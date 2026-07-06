@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:wf.holyrest.app)",
+      "Bash(node scrape-final-v2.js)"
+    ]
+  }
+}
