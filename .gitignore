@@ -1,0 +1,7 @@
+node_modules/
+scrape-*.js
+debug*.js
+captured/chart_*.png
+captured/debug_*.png
+captured/paywall_*.png
+captured/step_9_debug.png
